@@ -1,4 +1,4 @@
-## GLobal Covid-19 Cases (2020-2021) Data Analysis using Excel,Tableau and Sql
+## Global Covid-19 Cases (2020-2021) Data Analysis using Excel,Tableau and Sql
 
 ![Covid-19](https://github.com/Sameer2615/Covid_Cases_Project/blob/main/covid-19.avif)
  This project explores COVID-19 data through Excel, SQL, and Tableau to reveal meaningful insights that go beyond raw numbers. It emphasizes the pandemic's effects on people's lives and evaluates the effectiveness of vaccination efforts.
